@@ -1,7 +1,6 @@
 # Crash-Analysis-And-Safety-Testing
 The rapid development and deployment of autonomous vehicles (AVs) presents significant safety challenges, particularly regarding the reliability and robustness of their machine learning (ML) models. This project aimed to address the gap in ensuring the safety of AVs by focusing on systematic crash scenario analysis and robust safety testing of their ML models.
-# The key objectives were:
-Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 The project conducted extensive EDA on the dataset, including visualizing the distributions of driver age and gender, as well as analyzing the trend of incidents over time and performing Principal Component Analysis (PCA).
 # Data Preprocessing and Modeling
 The dataset was split into training and testing sets, and the 'Totalinjuries' feature was binned into four categories. Categorical features were encoded using OneHotEncoder.
