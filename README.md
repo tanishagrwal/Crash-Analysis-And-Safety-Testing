@@ -9,4 +9,5 @@ Several machine learning models were trained and evaluated, including:
 Random Forest Classifier, which achieved an accuracy of 0.90 on the test set.
 Gradient Boosting Classifier, which was also evaluated.
 To address class imbalance, SMOTE oversampling was applied to the training data. The trained Random Forest Classifier model was also saved and loaded for further evaluation.
-The project demonstrates the use of various techniques to analyze and predict the severity of crash injuries based on vehicle and crash parameters. The results highlight the need for continued research and development to ensure the safety of autonomous vehicles as they become more widely deployed.
+# Summary
+This project demonstrates the use of various techniques to analyze and predict the severity of crash injuries based on vehicle and crash parameters. The results highlight the need for continued research and development to ensure the safety of autonomous vehicles as they become more widely deployed.
